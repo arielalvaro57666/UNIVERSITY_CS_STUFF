@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be914231bfdf948a",
@@ -170,19 +171,19 @@
   },
   "active": "820c5bc93081c625",
   "lastOpenFiles": [
+    "Pasted image 20250217214659.png",
+    "Pasted image 20250217214159.png",
+    "Pasted image 20250217214059.png",
+    "Pasted image 20250217182919.png",
+    "Pasted image 20250217182611.png",
+    "Pasted image 20250217161627.png",
     "Pasted image 20250216135850.png",
     "Pasted image 20250216135840.png",
     "Pasted image 20250216131511.png",
     "Pasted image 20250216131403.png",
     "Pasted image 20250216131358.png",
-    "Pasted image 20250216131340.png",
     "Practico Flujos.md",
     "Practico Matchings.md",
-    "Pasted image 20250214152443.png",
-    "Pasted image 20250214152208.png",
-    "Pasted image 20250214152021.png",
-    "Pasted image 20250214151646.png",
-    "Pasted image 20250214151637.png",
     "Practico 1.md",
     "media",
     "Welcome.md"
